@@ -1,0 +1,23 @@
+.calculator {
+  background-color: rgb(83, 82, 82);
+  width: 260px;
+  border: 2px solid rgba(0, 0, 0, 0.269);
+  border-radius: 5px;
+}
+
+h1{
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+center{
+  background: linear-gradient(#E4DAD8,#FFE5DF);
+  height: 500px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  background: linear-gradient(#E4DAD8,#FFE5DF);
+}
